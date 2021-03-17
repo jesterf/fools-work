@@ -1,4 +1,4 @@
-const quotes = [
+const stupid_quotes = [
     [
       'The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt.',
       'Bertrand Russell'
